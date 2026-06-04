@@ -31,3 +31,7 @@ spam-detection-system/
 ```bash
 pip install -r requirements.txt
 python manage.py runserver
+
+## Project Screenshot
+
+![Spam Detection System](screenshot.png)
